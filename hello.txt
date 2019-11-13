@@ -1,2 +1,2 @@
-
 New string
+Another string
